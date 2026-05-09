@@ -4,14 +4,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-.px-4 {
-  padding-right: 30px;
-  padding-left: 30px;
-}
-.py-1 {
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
 .flex {
   display: flex;
 }
